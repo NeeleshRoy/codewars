@@ -1,40 +1,10 @@
-# [codewars](https://github.com//codewars)
+# [codewars](https://github.com/neeleshroy/codewars)
 
-[![NPM version](http://img.shields.io/npm/v/codewars.svg?style=flat-square)](https://www.npmjs.com/package/codewars)
-[![NPM downloads](http://img.shields.io/npm/dm/codewars.svg?style=flat-square)](https://www.npmjs.com/package/codewars)
-[![Build Status](http://img.shields.io/travis//codewars/master.svg?style=flat-square)](https://travis-ci.org//codewars)
-[![Coverage Status](https://img.shields.io/coveralls//codewars.svg?style=flat-square)](https://coveralls.io//codewars)
-[![Dependency Status](http://img.shields.io/david//codewars.svg?style=flat-square)](https://david-dm.org//codewars)
+# Index:
 
-> 
-
-### How to Install
-
-```sh
-$ npm install codewars
-```
-
-### Getting Started
-
-...
-
-### How to Test
-
-Run one, or a combination of the following commands to lint and test your code:
-
-```sh
-$ npm run lint          # Lint the source code with ESLint
-$ npm test              # Run unit tests with Mocha
-$ npm run test:watch    # Run unit tests with Mocha, and watch files for changes
-$ npm run test:cover    # Run unit tests with code coverage by Istanbul
-```
-
-To launch the documentation site, run:
-
-```sh
-$ npm install -g easystatic
-$ npm start
-```
+### [Persistence Bugger] (https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+### [Counting Duplicates] (https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+### [Stop gninnipS My sdroW!] (https://www.codewars.com/kata/5264d2b162488dc400000001)
 
 ### License
 

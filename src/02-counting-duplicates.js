@@ -1,0 +1,1 @@
+function duplicateCount(t){var n=t.toLowerCase().split("").sort(),o=0,u=[];return n.forEach(function(t,e){n.lastIndexOf(t)===e||u.includes(t)||(u.push(t),++o)}),o}

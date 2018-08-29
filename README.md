@@ -8,6 +8,7 @@ javascript solutions for codewar questions
 4. [Exes and Ohs](http://www.codewars.com/kata/55908aad6620c066bc00002a)
 5. [Create Phone number](http://www.codewars.com/kata/525f50e3b73515a6db000b83)
 6. [Sum of numbers](http://www.codewars.com/kata/55f2b110f61eb01779000053)
+6. [Find the divisors](http://www.codewars.com/kata/544aed4c4a30184e960010f4)
 
 ### License
 

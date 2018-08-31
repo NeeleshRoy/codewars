@@ -13,6 +13,7 @@ javascript solutions for codewar questions
 7. [Find the divisors](http://www.codewars.com/kata/544aed4c4a30184e960010f4)
 8. [Bit Counting](http://www.codewars.com/kata/526571aae218b8ee490006f4)
 9. [Vowel Count](https://www.codewars.com/kata/vowel-count/)
+10. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 
 ### License
 

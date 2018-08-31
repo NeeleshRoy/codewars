@@ -1,6 +1,8 @@
 # [codewars](https://github.com/neeleshroy/codewars)
 javascript solutions for codewar questions
-# Index:
+### List of questions with links according to level
+
+#### 7 KYU
 
 1. [Persistence Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 2. [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
@@ -10,6 +12,7 @@ javascript solutions for codewar questions
 6. [Sum of numbers](http://www.codewars.com/kata/55f2b110f61eb01779000053)
 7. [Find the divisors](http://www.codewars.com/kata/544aed4c4a30184e960010f4)
 8. [Bit Counting](http://www.codewars.com/kata/526571aae218b8ee490006f4)
+9. [Vowel Count](https://www.codewars.com/kata/vowel-count/)
 
 ### License
 

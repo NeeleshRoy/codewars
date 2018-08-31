@@ -1,5 +1,6 @@
 # [codewars](https://github.com/neeleshroy/codewars)
-javascript solutions for codewar questions
+Javascript solutions for codewar questions. The questions are arranged according to levels and most completed questions in that level.
+
 ### List of questions with links according to level
 
 #### 7 KYU
@@ -17,4 +18,4 @@ javascript solutions for codewar questions
 
 ### License
 
-MIT © 2016 
+MIT © 2018 

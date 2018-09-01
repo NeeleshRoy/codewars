@@ -21,6 +21,7 @@ Javascript solutions for codewar questions. The questions are arranged according
 14. [Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
 15. [List filtering](https://www.codewars.com/kata/list-filtering/)
 16. [Is this a triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/)
+17. [Find next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
 
 ### License
 

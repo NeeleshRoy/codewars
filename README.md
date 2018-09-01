@@ -17,6 +17,9 @@ Javascript solutions for codewar questions. The questions are arranged according
 10. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 11. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
 12. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
+13. [Highest and Lowest](https://www.codewars.com/kata/highest-and-lowest)
+14. [Shortest word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+15. [List filtering](https://www.codewars.com/kata/list-filtering/)
 
 ### License
 

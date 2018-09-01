@@ -24,6 +24,7 @@ Javascript solutions for codewar questions. The questions are arranged according
 17. [Find next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
 18. [Growth of a population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
 19. [Isograms](https://www.codewars.com/kata/isograms/)
+20. [Credit card mask](https://www.codewars.com/kata/credit-card-mask)
 
 ### License
 

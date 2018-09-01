@@ -15,6 +15,8 @@ Javascript solutions for codewar questions. The questions are arranged according
 8. [Bit Counting](http://www.codewars.com/kata/526571aae218b8ee490006f4)
 9. [Vowel Count](https://www.codewars.com/kata/vowel-count/)
 10. [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+11. [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)
+12. [Jaden Casing Strings](https://www.codewars.com/kata/5390bac347d09b7da40006f6)
 
 ### License
 

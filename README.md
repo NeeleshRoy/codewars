@@ -22,6 +22,8 @@ Javascript solutions for codewar questions. The questions are arranged according
 15. [List filtering](https://www.codewars.com/kata/list-filtering/)
 16. [Is this a triangle](https://www.codewars.com/kata/56606694ec01347ce800001b/)
 17. [Find next perfect square](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)
+18. [Growth of a population](https://www.codewars.com/kata/563b662a59afc2b5120000c6)
+19. [Isograms](https://www.codewars.com/kata/isograms/)
 
 ### License
 

@@ -19,3 +19,4 @@
 19. [Isograms](https://www.codewars.com/kata/isograms/)
 20. [Credit card mask](https://www.codewars.com/kata/credit-card-mask)
 21. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
+22. [Validate Regex Pincode](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)

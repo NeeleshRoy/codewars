@@ -1,5 +1,7 @@
-// return masked string
-function maskify(cc) {
-  cc = cc.trim()
-  return cc.length > 3 ? cc.replace(/./g, "#").slice(0, -4) + cc.slice(-4) : cc
+function longest(s1, s2) {
+  const set1 = new Set((s1.split('').concat(s2.split(''))).sort())
+  let output = ''
+   set1.forEach(e => output += e)
+   
+   return output
 }

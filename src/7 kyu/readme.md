@@ -22,3 +22,4 @@
 22. [Validate Regex Pincode](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 23. [Printer errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)
 24. [Categorize New Member](https://www.codewars.com/kata/categorize-new-member)
+25. [Remove the minimum](https://www.codewars.com/kata/remove-the-minimum/)

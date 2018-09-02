@@ -20,3 +20,4 @@
 20. [Credit card mask](https://www.codewars.com/kata/credit-card-mask)
 21. [Two to One](https://www.codewars.com/kata/5656b6906de340bd1b0000ac)
 22. [Validate Regex Pincode](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+23. [Printer errors](https://www.codewars.com/kata/56541980fa08ab47a0000040)

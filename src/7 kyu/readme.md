@@ -24,3 +24,4 @@
 24. [Categorize New Member](https://www.codewars.com/kata/categorize-new-member)
 25. [Remove the minimum](https://www.codewars.com/kata/remove-the-minimum/)
 26. [Breaking the chocolate](https://www.codewars.com/kata/534ea96ebb17181947000ada)
+27. [Money Money Money](https://www.codewars.com/kata/money-money-money)
